@@ -1,8 +1,3 @@
-
-
-For part 5:
-I compiled the code by
-c++ employee.cpp -o employee
-./employee
-I got the task 1 and 2 to work and output to the text file (emp2.txt)
-I did not et the mapping and binary i/o to work.
+The emp.txt has each of the employee information. 
+The class employee in the c++ code reads the emp.txt file and instantiate each employee object from each record. 
+The employee record that has been instantiated is outputted to an emp2.txt file. 
