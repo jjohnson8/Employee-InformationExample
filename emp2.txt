@@ -118,11 +118,3 @@ Position:g.m.
 Department:marketing 
 BirthDate:12/31/40
 Salary:95000
-
- Record:16
-ID:
-NAME:
-Position:
-Department:
-BirthDate:
-Salary:
