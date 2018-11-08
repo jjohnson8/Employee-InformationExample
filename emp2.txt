@@ -1,0 +1,128 @@
+
+Record:1
+ID:2233
+NAME:charles harris  
+Position:g.m.     
+Department:sales     
+BirthDate:12/12/52
+Salary:90000
+
+ Record:2
+ID:9876
+NAME:bill johnson    
+Position:director 
+Department:production
+BirthDate:03/12/50
+Salary:130000
+
+ Record:3
+ID:5678
+NAME:robert dylan    
+Position:d.g.m.   
+Department:marketing 
+BirthDate:04/19/43
+Salary:85000
+
+ Record:4
+ID:2365
+NAME:john woodcock   
+Position:director 
+Department:personnel 
+BirthDate:05/11/47
+Salary:120000
+
+ Record:5
+ID:5423
+NAME:barry wood      
+Position:chairman 
+Department:admin     
+BirthDate:08/30/56
+Salary:160000
+
+ Record:6
+ID:1006
+NAME:gordon lightfoot
+Position:director 
+Department:sales     
+BirthDate:09/03/38
+Salary:140000
+
+ Record:7
+ID:6213
+NAME:michael lennon  
+Position:g.m.     
+Department:accounts  
+BirthDate:06/05/62
+Salary:105000
+
+ Record:8
+ID:1265
+NAME:p.j. woodhouse  
+Position:manager  
+Department:sales     
+BirthDate:09/12/63
+Salary:90000
+
+ Record:9
+ID:4290
+NAME:neil o'bryan    
+Position:executive
+Department:production
+BirthDate:09/07/50
+Salary:65000
+
+ Record:10
+ID:2476
+NAME:jackie wodehouse
+Position:manager  
+Department:sales     
+BirthDate:05/01/59
+Salary:110000
+
+ Record:11
+ID:6521
+NAME:derryk o'brien  
+Position:director 
+Department:marketing 
+BirthDate:09/26/45
+Salary:125000
+
+ Record:12
+ID:3212
+NAME:bill wilcocks   
+Position:d.g.m.   
+Department:accounts  
+BirthDate:12/12/55
+Salary:85000
+
+ Record:13
+ID:3564
+NAME:ronie trueman   
+Position:executive
+Department:personnel 
+BirthDate:07/06/47
+Salary:75000
+
+ Record:14
+ID:2345
+NAME:james wilcox    
+Position:g.m.     
+Department:marketing 
+BirthDate:03/12/45
+Salary:110000
+
+ Record:15
+ID:0110
+NAME:julie truman    
+Position:g.m.     
+Department:marketing 
+BirthDate:12/31/40
+Salary:95000
+
+ Record:16
+ID:
+NAME:
+Position:
+Department:
+BirthDate:
+Salary:
